@@ -1,0 +1,7 @@
+Permission Scheme:
+	- Binary Number
+	- Bits, in order:
+		0. ?say
+		1. Access List Bypass
+		2. Server connection
+		3. 

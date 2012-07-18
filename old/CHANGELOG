@@ -1,0 +1,12 @@
+v1.2 - Command Line
+	Curses command line. It currently does not parse commands.
+	xc.moo, xc.reload, xc.say, xc.idunno, xc.nick, xc.part
+
+v1.1 - Command Parser
+	Xulu can interpret and act upon commands given via chat.
+	Xulu will respond to INVITE.
+	xc.connect, xc.help
+
+v1.0 - Project started
+	Xulu can connect to servers and join channels.
+	He responds to CTCP VERSION and automatically handles PING/PONG.
